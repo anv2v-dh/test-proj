@@ -5,7 +5,7 @@ body{
 }
 
 body#loginBody {
-    background: url('../images/login-background.jpg') no-repeat center center;
+    background: url('../images/login-background.webp') no-repeat center center;
     background-size: cover;
     min-height : 100vh;
 }
